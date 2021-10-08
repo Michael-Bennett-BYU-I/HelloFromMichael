@@ -5,6 +5,8 @@ public class Main {
 
     public static void main(String[] args) {
         printMyName();
+
+        printYourName("this is an example.");
     }
 
     public static void printMyName() {
