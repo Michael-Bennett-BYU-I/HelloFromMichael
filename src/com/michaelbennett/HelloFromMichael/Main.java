@@ -7,6 +7,9 @@ public class Main {
         printMyName();
 
         printYourName("this is an example.");
+
+        // from Nathan:
+        printYourName("Nathan!");
     }
 
     public static void printMyName() {
